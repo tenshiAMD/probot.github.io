@@ -1,3 +1,0 @@
-[submodule "_submodules/probot"]
-	path = _submodules/probot
-	url = https://github.com/probot/probot.git
